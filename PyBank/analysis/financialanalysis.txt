@@ -1,0 +1,5 @@
+Total Months: 86 
+Total Profit: 38382578 
+Average profit: 446309.0465116279 
+The Greatest Profit increase is: 1170593
+The Greatest Profit Decrease is: -1196225

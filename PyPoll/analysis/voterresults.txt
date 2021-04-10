@@ -1,0 +1,6 @@
+The number of voters is: 1048575
+Khan number of voters: 661583  percentage:63.09353169778033%
+Correy number of voters: 209046  percentage:19.93619912738717%
+Li number of voters: 146360  percentage:13.957990606299026%
+O'Tolley number of voters: 31586  percentage:3.0122785685334863%
+Winner : Khan
